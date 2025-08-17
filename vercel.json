@@ -18,11 +18,11 @@
     },
     {
       "src": "/(.*)",
-      "dest": "/"
+      "dest": "/index.html"
     }
   ],
   "env": {
-    "VITE_API_BASE_URL": "https://your-vercel-app-name.vercel.app/api"
+    "VITE_API_BASE_URL": "https://rfx-eco-verse.vercel.app/api"
     
   }
 }
